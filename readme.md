@@ -8,7 +8,7 @@ Having never formally studied hardware I wanted to pursue a project that would b
 
 ## Overview
 
-The full paper can be found [here]().
+The full paper can be found [here](https://github.com/ben-e/dionysia/blob/master/dionysia_paper.pdf).
 
 ### The Simplex Algorithm
 
